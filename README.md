@@ -24,7 +24,7 @@ This project fetches live tweets using the Twitter API and performs sentiment an
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/twitter-sentiment-analysis.git
+   git clone https://github.com/Sammihan/twitter-sentiment-analysis.git
    cd twitter-sentiment-analysis
    ```
 
@@ -39,3 +39,4 @@ pip install -r requirements.txt
 python main.py
 
 ```
+
