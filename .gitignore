@@ -1,0 +1,20 @@
+# Ignore environment & secret files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore local data/output files
+twitter_sentiment_results.csv
+
+# Ignore virtual environments
+venv/
+.env/
+
+*.csv
+*.xlsx
+
+# IDE/editor files
+.vscode/
+.idea/
