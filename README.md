@@ -3,7 +3,7 @@
 This project fetches live tweets using the Twitter API and performs sentiment analysis
 (positive/negative) using Logistic Regression and TF-IDF.
 
-## 🚀 Features
+##  Features
 
 - Fetches live tweets from Twitter API (v2)
 - Preprocesses tweets (cleaning, removing links/hashtags)
@@ -11,7 +11,7 @@ This project fetches live tweets using the Twitter API and performs sentiment an
 - Predicts sentiment of live tweets
 - Saves results into a CSV file
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3
 - scikit-learn
@@ -19,7 +19,7 @@ This project fetches live tweets using the Twitter API and performs sentiment an
 - Twitter API v2
 - python-dotenv (for API key security)
 
-## ⚙️ Setup
+##  Setup
 
 1. Clone the repo:
 
@@ -39,4 +39,5 @@ pip install -r requirements.txt
 python main.py
 
 ```
+
 
